@@ -1,5 +1,7 @@
 # AI Papers Collection
 
+## Description
+
 ! Warning: This is a work in progress. !
 
 This is a list of papers that I've read or plan to read. 
@@ -7,6 +9,8 @@ This is a list of papers that I've read or plan to read.
 I've also included links to implementations of the papers that I've found 
 online, or my own implementations if I've done them, along with personal
 notes and tags
+
+## Tags
 
 The available tags are: 
 - `#CV` for computer vision
@@ -18,6 +22,7 @@ The available tags are:
 - `#GM` for generative models
 - `#LLM` for large language models
 
+## List
 
 ### You Only Look Once: Unified, Real-Time Object Detection
 - Alternative Title: YOLOv1

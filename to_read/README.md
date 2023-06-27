@@ -1,7 +1,11 @@
 # AI Papers Collection
 
+## Description
+
 This is a list of papers that I plan to read. Once read, I move them to the
 [already_read](already_read/README.md) folder.
+
+## Tags
 
 The available tags are: 
 - `#CV` for computer vision
@@ -15,6 +19,7 @@ The available tags are:
 
 Warning: Because I didn't finish reading them, the tags might be wrong.
 
+## List
 
 ### Reduction of Class Activation Uncertainty with Background Information
 - Link: https://arxiv.org/abs/2305.03238v2
